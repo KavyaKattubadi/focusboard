@@ -1,3 +1,4 @@
+import React from 'react';
 import { useEffect, useMemo, useState } from 'react';
 import { Search, Plus, Bell, ChevronLeft, ChevronRight, MoreHorizontal, CalendarDays, CheckCircle2, Circle, Clock3, Pencil, Trash2, X, LayoutDashboard, ListTodo, Settings, Flag } from 'lucide-react';
 
